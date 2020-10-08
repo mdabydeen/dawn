@@ -1,0 +1,7 @@
+# System Files 
+.DS_Store
+
+# Web Files 
+web/node_modules 
+web/yarn.lock
+web/package-lock.json
